@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: dubbo_provider Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 张金玉
+Implementation-Vendor-Id: com.walker
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
